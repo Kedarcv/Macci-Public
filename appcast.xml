@@ -6,17 +6,20 @@
         <description>Updates for macci.</description>
         <language>en</language>
 
+        <!-- The version ints, short strings, enclosure URL, length and
+             edSignature in this single item are all rewritten from the freshly
+             built app by Configuration/notarize/publish.sh. Keep one item. -->
         <item>
-            <title>2.8.0</title>
+            <title>macci 2.8.0</title>
             <pubDate>Mon, 08 Sep 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>271</sparkle:version>
-            <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
+            <sparkle:version>281</sparkle:version>
+            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.7.3</link>
+            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.8.0</link>
             <description><![CDATA[
                 <h2>macci 2.8.0</h2>
                 <ul>
-                    <li>Cloudee runs simple commands directly — &ldquo;open Safari&rdquo;, &ldquo;quit Notes&rdquo;, &ldquo;switch to Mail&rdquo;, &ldquo;type &hellip;&rdquo;, &ldquo;write a note that says &hellip;&rdquo; &mdash; with no model round-trip.</li>
+                    <li>Cloudee runs simple commands directly &mdash; &ldquo;open Safari&rdquo;, &ldquo;quit Notes&rdquo;, &ldquo;switch to Mail&rdquo;, &ldquo;type &hellip;&rdquo;, &ldquo;write a note that says &hellip;&rdquo; &mdash; with no model round-trip.</li>
                     <li>Point at an app by name: &ldquo;circle the Notes app&rdquo; finds its window and marks it.</li>
                     <li>The on-screen pointer grounds on on-device OCR and knows your real display size, for accurate arrows and boxes.</li>
                     <li>Web search built in (no key) &mdash; ask for anything current and Cloudee looks it up and cites sources; point it at a SearXNG URL in Settings for a reliable feed.</li>
@@ -29,12 +32,12 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.7.3/macci-2.7.3.dmg"
-                sparkle:version="271"
-                sparkle:shortVersionString="2.7.3"
-                length="105602593"
+                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.8.0/macci-2.8.0.dmg"
+                sparkle:version="281"
+                sparkle:shortVersionString="2.8.0"
+                length="105657099"
                 type="application/octet-stream"
-                sparkle:edSignature="hRJcQrCkOQ6UH4khEG9KwIMLt7rl6A5bqtVC8iQ0OO4jXKmnL2J9+Em+d1VIq+WZ4iyqURgfZ82tf+LzUrvDAQ==" />
+                sparkle:edSignature="fVoJu3aXccbL6zq5G7QZhUtDANzTq0yaoBV0lnXNbDbjJziMcx6LY0EWBdRdMtlVzsNidxOriGAnVdXGjimfDg==" />
         </item>
     </channel>
 </rss>
