@@ -12,10 +12,10 @@
         <item>
             <title>macci 2.8.0</title>
             <pubDate>Mon, 08 Sep 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>281</sparkle:version>
-            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+            <sparkle:version>282</sparkle:version>
+            <sparkle:shortVersionString>2.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.8.0</link>
+            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.8.1</link>
             <description><![CDATA[
                 <h2>macci 2.8.0</h2>
                 <ul>
@@ -32,12 +32,12 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.8.0/macci-2.8.0.dmg"
-                sparkle:version="281"
-                sparkle:shortVersionString="2.8.0"
-                length="105657099"
+                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.8.1/macci-2.8.1.dmg"
+                sparkle:version="282"
+                sparkle:shortVersionString="2.8.1"
+                length="105554684"
                 type="application/octet-stream"
-                sparkle:edSignature="fVoJu3aXccbL6zq5G7QZhUtDANzTq0yaoBV0lnXNbDbjJziMcx6LY0EWBdRdMtlVzsNidxOriGAnVdXGjimfDg==" />
+                sparkle:edSignature="z32bMeRMjP2DKx2HRY+k5ZRRxHs45n/Lb3lWjyGqvhIACkZx29NwnbmEwpuj8BqfcGolNN3CwfdhCzMst/htBQ==" />
         </item>
     </channel>
 </rss>
