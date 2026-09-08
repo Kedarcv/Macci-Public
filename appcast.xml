@@ -7,22 +7,25 @@
         <language>en</language>
 
         <item>
-            <title>2.7.3</title>
-            <pubDate>Sat, 06 Sep 2026 20:30:00 +0000</pubDate>
+            <title>2.8.0</title>
+            <pubDate>Mon, 08 Sep 2026 12:00:00 +0000</pubDate>
             <sparkle:version>271</sparkle:version>
             <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.7.3</link>
             <description><![CDATA[
-                <h2>macci 2.7.3</h2>
+                <h2>macci 2.8.0</h2>
                 <ul>
-                    <li>Bring your own AI provider &amp; model — OpenAI, Anthropic, xAI, Gemini, or the built-in default (Settings &rarr; AI Model).</li>
-                    <li>On-screen annotations: the assistant can draw arrows, boxes and circles to point things out.</li>
-                    <li>Guided walk-throughs: step-by-step arrows to the next control in any app.</li>
-                    <li>Autonomous agent: hand it a whole task; a floating card shows progress and asks before anything is sent, deleted or paid.</li>
-                    <li>Logbook connectors: push entries and AI summaries to Slack, GitHub, Linear, Notion or a custom webhook.</li>
-                    <li>MCP connectors: attach Model Context Protocol servers so the agent can call their tools.</li>
-                    <li>Skills: write plain-language instructions for your recurring tasks (Settings &rarr; Skills).</li>
+                    <li>Cloudee runs simple commands directly — &ldquo;open Safari&rdquo;, &ldquo;quit Notes&rdquo;, &ldquo;switch to Mail&rdquo;, &ldquo;type &hellip;&rdquo;, &ldquo;write a note that says &hellip;&rdquo; &mdash; with no model round-trip.</li>
+                    <li>Point at an app by name: &ldquo;circle the Notes app&rdquo; finds its window and marks it.</li>
+                    <li>The on-screen pointer grounds on on-device OCR and knows your real display size, for accurate arrows and boxes.</li>
+                    <li>Web search built in (no key) &mdash; ask for anything current and Cloudee looks it up and cites sources; point it at a SearXNG URL in Settings for a reliable feed.</li>
+                    <li>Bring your own AI provider &amp; model (OpenAI, Anthropic, xAI, Gemini) or use the built-in default; on-device fallback when the cloud is unreachable.</li>
+                    <li>Coding-assistant usage rings in the notch &mdash; Claude Code, Cursor, Codex, GLM, Grok, OpenCode &mdash; click one for the per-window breakdown.</li>
+                    <li>One pointer gesture: hold &#8963;&#8997; and circle a region, then tell Cloudee what you want.</li>
+                    <li>Reworked onboarding with a hands-on AI tour, a plan picker, and a 7-day free trial.</li>
+                    <li>Folder-backed Skills: drop in a folder with SKILL.md + reference docs, or import a Markdown file.</li>
+                    <li>Fixes: subscription checkout, the updater feed, and app-launch reliability.</li>
                 </ul>
             ]]></description>
             <enclosure
