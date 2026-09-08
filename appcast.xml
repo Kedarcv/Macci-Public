@@ -29,9 +29,9 @@
                 url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.7.3/macci-2.7.3.dmg"
                 sparkle:version="271"
                 sparkle:shortVersionString="2.7.3"
-                length="105546357"
+                length="105588926"
                 type="application/octet-stream"
-                sparkle:edSignature="0vL5CBT6x7NLJlHmFseS4fWfzQ3kEN0E6pN0Tymvy72+PaO0Tb+5mnrPelNp+dspTNLKt1S+NbWGdEf5r2G0DQ==" />
+                sparkle:edSignature="n/gurk/r/AqNpmZfuZaTiVc36ok23BZPK4p4aHWQhxf4JQI6EmsT2yjPcRDChnGxDFpCa+8mBLEg3DFMR42oAg==" />
         </item>
     </channel>
 </rss>
