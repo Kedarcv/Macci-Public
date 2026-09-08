@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>macci</title>
+        <link>https://raw.githubusercontent.com/Kedarcv/Macci-Public/main/appcast.xml</link>
+        <description>Updates for macci.</description>
+        <language>en</language>
+
+        <item>
+            <title>2.7.3</title>
+            <pubDate>Sat, 06 Sep 2026 20:30:00 +0000</pubDate>
+            <sparkle:version>271</sparkle:version>
+            <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.7.3</link>
+            <description><![CDATA[
+                <h2>macci 2.7.3</h2>
+                <ul>
+                    <li>Bring your own AI provider &amp; model — OpenAI, Anthropic, xAI, Gemini, or the built-in default (Settings &rarr; AI Model).</li>
+                    <li>On-screen annotations: the assistant can draw arrows, boxes and circles to point things out.</li>
+                    <li>Guided walk-throughs: step-by-step arrows to the next control in any app.</li>
+                    <li>Autonomous agent: hand it a whole task; a floating card shows progress and asks before anything is sent, deleted or paid.</li>
+                    <li>Logbook connectors: push entries and AI summaries to Slack, GitHub, Linear, Notion or a custom webhook.</li>
+                    <li>MCP connectors: attach Model Context Protocol servers so the agent can call their tools.</li>
+                    <li>Skills: write plain-language instructions for your recurring tasks (Settings &rarr; Skills).</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.7.3/macci-2.7.3.dmg"
+                sparkle:version="271"
+                sparkle:shortVersionString="2.7.3"
+                length="105546357"
+                type="application/octet-stream"
+                sparkle:edSignature="0vL5CBT6x7NLJlHmFseS4fWfzQ3kEN0E6pN0Tymvy72+PaO0Tb+5mnrPelNp+dspTNLKt1S+NbWGdEf5r2G0DQ==" />
+        </item>
+    </channel>
+</rss>
