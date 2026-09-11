@@ -10,34 +10,29 @@
              edSignature in this single item are all rewritten from the freshly
              built app by Configuration/notarize/publish.sh. Keep one item. -->
         <item>
-            <title>macci 2.8.0</title>
-            <pubDate>Mon, 08 Sep 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>282</sparkle:version>
-            <sparkle:shortVersionString>2.8.1</sparkle:shortVersionString>
+            <title>macci 2.9.0</title>
+            <pubDate>Fri, 11 Sep 2026 13:00:00 +0000</pubDate>
+            <sparkle:version>283</sparkle:version>
+            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.8.1</link>
+            <link>https://github.com/Kedarcv/Macci-Public/releases/tag/v2.9.0</link>
             <description><![CDATA[
-                <h2>macci 2.8.0</h2>
+                <h2>macci 2.9.0</h2>
                 <ul>
-                    <li>Cloudee runs simple commands directly &mdash; &ldquo;open Safari&rdquo;, &ldquo;quit Notes&rdquo;, &ldquo;switch to Mail&rdquo;, &ldquo;type &hellip;&rdquo;, &ldquo;write a note that says &hellip;&rdquo; &mdash; with no model round-trip.</li>
-                    <li>Point at an app by name: &ldquo;circle the Notes app&rdquo; finds its window and marks it.</li>
-                    <li>The on-screen pointer grounds on on-device OCR and knows your real display size, for accurate arrows and boxes.</li>
-                    <li>Web search built in (no key) &mdash; ask for anything current and Cloudee looks it up and cites sources; point it at a SearXNG URL in Settings for a reliable feed.</li>
-                    <li>Bring your own AI provider &amp; model (OpenAI, Anthropic, xAI, Gemini) or use the built-in default; on-device fallback when the cloud is unreachable.</li>
-                    <li>Coding-assistant usage rings in the notch &mdash; Claude Code, Cursor, Codex, GLM, Grok, OpenCode &mdash; click one for the per-window breakdown.</li>
-                    <li>One pointer gesture: hold &#8963;&#8997; and circle a region, then tell Cloudee what you want.</li>
-                    <li>Reworked onboarding with a hands-on AI tour, a plan picker, and a 7-day free trial.</li>
-                    <li>Folder-backed Skills: drop in a folder with SKILL.md + reference docs, or import a Markdown file.</li>
-                    <li>Fixes: subscription checkout, the updater feed, and app-launch reliability.</li>
+                    <li>Face Unlock for Mac: biometric face recognition right in the notch using Apple Vision and Core ML.</li>
+                    <li>Guided Face ID enrollment with multi-angle head pose capture and liveness detection.</li>
+                    <li>Encrypted credential storage behind Touch ID &amp; Mac password.</li>
+                    <li>Unified branding across all settings and notch flows.</li>
+                    <li>Bug fixes and performance improvements.</li>
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.8.1/macci-2.8.1.dmg"
-                sparkle:version="282"
-                sparkle:shortVersionString="2.8.1"
-                length="105554684"
+                url="https://github.com/Kedarcv/Macci-Public/releases/download/v2.9.0/macci-2.9.0.dmg"
+                sparkle:version="283"
+                sparkle:shortVersionString="2.9.0"
+                length="117999841"
                 type="application/octet-stream"
-                sparkle:edSignature="z32bMeRMjP2DKx2HRY+k5ZRRxHs45n/Lb3lWjyGqvhIACkZx29NwnbmEwpuj8BqfcGolNN3CwfdhCzMst/htBQ==" />
+                sparkle:edSignature="n9TU3tTl7TbcNnScSQjAltoy/6gB896NKOtow5BvfsF/GDXNu0uMgLjOcZNbJWCD6SGEUff3lACNmbg3xSRcCA==" />
         </item>
     </channel>
 </rss>
